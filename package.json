@@ -1,0 +1,22 @@
+{
+  "name": "timeget",
+  "version": "1.0.0",
+  "description": "GET time",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajveer2009/TIME.git"
+  },
+  "keywords": [
+    "TIME"
+  ],
+  "author": "Rajveer Singh Saggu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rajveer2009/TIME/issues"
+  },
+  "homepage": "https://github.com/Rajveer2009/TIME#readme"
+}
