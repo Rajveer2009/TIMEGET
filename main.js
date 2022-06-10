@@ -5,7 +5,7 @@ exports.gettime = function() {
     let min = date.getMinutes()
     let hours = date.getHours()
 
-    const time = hours + ":" + min + ":" + sec
+    time = hours + ":" + min + ":" + sec
 
     console.log(time);
 }
