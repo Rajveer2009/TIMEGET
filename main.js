@@ -1,4 +1,4 @@
-exports.time = function() {
+exports.gettime = function() {
     const date = new Date()
 
     let sec = date.getSeconds()

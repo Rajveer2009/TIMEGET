@@ -1,6 +1,6 @@
 {
   "name": "timeget",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "GET time",
   "main": "main.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Rajveer2009/TIME/issues"
   },
-  "homepage": "https://github.com/Rajveer2009/TIME#readme"
+  "homepage": "https://github.com/Rajveer2009/TIME#readme",
+  "dependencies": {
+    "timeget": "^1.1.0"
+  }
 }
