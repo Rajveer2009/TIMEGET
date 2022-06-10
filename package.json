@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Rajveer2009/TIME#readme",
   "dependencies": {
-    "timeget": "^1.1.0"
+    "timeget": "^1.2.0"
   }
 }
